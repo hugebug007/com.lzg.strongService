@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.view.View;
 
 /**
+ * http://blog.csdn.net/liuzg1220
  * 
  * @author henry
  *

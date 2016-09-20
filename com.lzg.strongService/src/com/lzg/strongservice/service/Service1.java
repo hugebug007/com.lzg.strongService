@@ -11,6 +11,7 @@ import android.widget.Toast;
 import com.lzg.strongservice.utils.Utils;
 
 /**
+ * http://blog.csdn.net/liuzg1220
  * 
  * @author henry
  *

@@ -9,6 +9,7 @@ import com.lzg.strongservice.service.Service1;
 import com.lzg.strongservice.service.Service2;
 
 /**
+ * http://blog.csdn.net/liuzg1220
  * 
  * @author henry
  *
