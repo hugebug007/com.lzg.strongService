@@ -25,12 +25,12 @@
          <service
             android:name="com.lzg.strongservice.service.Service1"
             android:enabled="true"
-            android:process="service3">
+            android:process=":service1">
         </service>
         <service
             android:name="com.lzg.strongservice.service.Service2"
             android:enabled="true"
-            android:process="service4">
+            android:process=":service2">
         </service>
     </application>
 
